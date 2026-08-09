@@ -11,20 +11,24 @@
 class Solution {
 public:
     ListNode* sortList(ListNode* head) {
-        if(head == NULL || head->next == NULL){
+       if(head == NULL || head->next == NULL){
             return head;
         }
-        multiset<int> mpp;
         ListNode* temp = head;
+        vector<int> arr;
         while(temp != NULL){
-            mpp.insert(temp->val);
+            arr.push_back(temp->val);
             temp = temp->next;
         }
+        sort(arr.begin(), arr.end());
+        int i = 0;
         temp = head;
-       for(auto x : mpp){
-           temp->val = x;
-           temp = temp->next;
-       }
+        while(temp != NULL){
+            temp->val = arr[i];
+            i = i+1;
+            temp = temp->next;
+        }
+        
         return head;
     }
 };
