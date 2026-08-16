@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/NakulJain071015/DSA/tree/master/0148-sort-list) |
+| [0389-find-the-difference](https://github.com/NakulJain071015/DSA/tree/master/0389-find-the-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NakulJain071015/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Merge Sort
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/NakulJain071015/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0389-find-the-difference](https://github.com/NakulJain071015/DSA/tree/master/0389-find-the-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NakulJain071015/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/NakulJain071015/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Array
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/NakulJain071015/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/NakulJain071015/DSA/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/NakulJain071015/DSA/tree/master/0389-find-the-difference) |
 | [0709-to-lower-case](https://github.com/NakulJain071015/DSA/tree/master/0709-to-lower-case) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/NakulJain071015/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/NakulJain071015/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -96,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/NakulJain071015/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/NakulJain071015/DSA/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
