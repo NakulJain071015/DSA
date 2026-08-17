@@ -1,11 +1,14 @@
 class Solution {
 public:
-    static int minPartitions(string& n) {
-        int ans=0;
-        for(int x: n){
-            ans=max(ans, x-'0');
-            if (ans==9) break;
+    int minPartitions(string n) {
+       char lar = n[0];
+
+    for(int i = 1; i < n.length(); i++) {
+        if(n[i] > lar) {
+            lar = n[i];
         }
-        return ans;
+    }
+
+    return lar - '0'; 
     }
 };
