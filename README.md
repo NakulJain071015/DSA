@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/NakulJain071015/DSA/tree/master/0389-find-the-difference) |
 | [0567-permutation-in-string](https://github.com/NakulJain071015/DSA/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/NakulJain071015/DSA/tree/master/0709-to-lower-case) |
+| [0796-rotate-string](https://github.com/NakulJain071015/DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/NakulJain071015/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/NakulJain071015/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/NakulJain071015/DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -140,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/NakulJain071015/DSA/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/NakulJain071015/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
