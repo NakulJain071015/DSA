@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/NakulJain071015/DSA/tree/master/0148-sort-list) |
+| [0242-valid-anagram](https://github.com/NakulJain071015/DSA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/NakulJain071015/DSA/tree/master/0389-find-the-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NakulJain071015/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Merge Sort
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/NakulJain071015/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0242-valid-anagram](https://github.com/NakulJain071015/DSA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/NakulJain071015/DSA/tree/master/0389-find-the-difference) |
 | [0567-permutation-in-string](https://github.com/NakulJain071015/DSA/tree/master/0567-permutation-in-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NakulJain071015/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/NakulJain071015/DSA/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/NakulJain071015/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/NakulJain071015/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/NakulJain071015/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/NakulJain071015/DSA/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/NakulJain071015/DSA/tree/master/0389-find-the-difference) |
 | [0567-permutation-in-string](https://github.com/NakulJain071015/DSA/tree/master/0567-permutation-in-string) |
