@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/NakulJain071015/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/NakulJain071015/DSA/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/NakulJain071015/DSA/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/NakulJain071015/DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/NakulJain071015/DSA/tree/master/0567-permutation-in-string) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/NakulJain071015/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Stack
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/NakulJain071015/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/NakulJain071015/DSA/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/NakulJain071015/DSA/tree/master/0389-find-the-difference) |
+| [0443-string-compression](https://github.com/NakulJain071015/DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/NakulJain071015/DSA/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/NakulJain071015/DSA/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/NakulJain071015/DSA/tree/master/0796-rotate-string) |
