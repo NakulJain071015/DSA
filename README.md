@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/NakulJain071015/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2942-find-words-containing-character](https://github.com/NakulJain071015/DSA/tree/master/2942-find-words-containing-character) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NakulJain071015/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3701-compute-alternating-sum](https://github.com/NakulJain071015/DSA/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/NakulJain071015/DSA/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/NakulJain071015/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Math
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/NakulJain071015/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/NakulJain071015/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/NakulJain071015/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3701-compute-alternating-sum](https://github.com/NakulJain071015/DSA/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/NakulJain071015/DSA/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/NakulJain071015/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Prefix Sum
