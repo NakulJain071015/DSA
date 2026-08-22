@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/NakulJain071015/DSA/tree/master/0567-permutation-in-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NakulJain071015/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/NakulJain071015/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/NakulJain071015/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Array
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/NakulJain071015/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/NakulJain071015/DSA/tree/master/2942-find-words-containing-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/NakulJain071015/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/NakulJain071015/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3838-weighted-word-mapping](https://github.com/NakulJain071015/DSA/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
 |  |
