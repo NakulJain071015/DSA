@@ -2,13 +2,14 @@ class Solution {
 public:
     int maxDistinct(string s) {
         int n = s.length();
-      
-     map<char,int>mpp;
-      for(int i = 0; i < n; i++){
-        mpp[s[i]]++;
-      }
-
-      
-        return mpp.size();
+        vector<int> temp(26,0);
+        int cnt = 0;
+        for(int i = 0; i < n; i++){
+            if(temp[s[i] - 'a'] == 0){
+                cnt++;
+                temp[s[i] - 'a']++; 
+            }
+        }
+        return cnt;
     }
 };
