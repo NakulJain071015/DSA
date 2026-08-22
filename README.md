@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/NakulJain071015/DSA/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/NakulJain071015/DSA/tree/master/0053-maximum-subarray) |
 | [0238-product-of-array-except-self](https://github.com/NakulJain071015/DSA/tree/master/0238-product-of-array-except-self) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/NakulJain071015/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/NakulJain071015/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/NakulJain071015/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2942-find-words-containing-character](https://github.com/NakulJain071015/DSA/tree/master/2942-find-words-containing-character) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/NakulJain071015/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NakulJain071015/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/NakulJain071015/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/NakulJain071015/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1903-largest-odd-number-in-string](https://github.com/NakulJain071015/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/NakulJain071015/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/NakulJain071015/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/NakulJain071015/DSA/tree/master/0238-product-of-array-except-self) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/NakulJain071015/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Number Theory
 |  |
 | ------- |
