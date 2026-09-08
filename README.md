@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/NakulJain071015/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/NakulJain071015/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/NakulJain071015/DSA/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/NakulJain071015/DSA/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/NakulJain071015/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/NakulJain071015/DSA/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/NakulJain071015/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/NakulJain071015/DSA/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/NakulJain071015/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/NakulJain071015/DSA/tree/master/0238-product-of-array-except-self) |
