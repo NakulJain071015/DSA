@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/NakulJain071015/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/NakulJain071015/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/NakulJain071015/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3870-count-commas-in-range](https://github.com/NakulJain071015/DSA/tree/master/3870-count-commas-in-range) |
 ## String
 |  |
 | ------- |
