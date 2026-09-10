@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/NakulJain071015/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/NakulJain071015/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/NakulJain071015/DSA/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/NakulJain071015/DSA/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/NakulJain071015/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NakulJain071015/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/NakulJain071015/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/NakulJain071015/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/NakulJain071015/DSA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/NakulJain071015/DSA/tree/master/0389-find-the-difference) |
+| [0496-next-greater-element-i](https://github.com/NakulJain071015/DSA/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/NakulJain071015/DSA/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/NakulJain071015/DSA/tree/master/0771-jewels-and-stones) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NakulJain071015/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/NakulJain071015/DSA/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/NakulJain071015/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/NakulJain071015/DSA/tree/master/0238-product-of-array-except-self) |
+| [0496-next-greater-element-i](https://github.com/NakulJain071015/DSA/tree/master/0496-next-greater-element-i) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/NakulJain071015/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1929-concatenation-of-array](https://github.com/NakulJain071015/DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/NakulJain071015/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -209,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/NakulJain071015/DSA/tree/master/0225-implement-stack-using-queues) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/NakulJain071015/DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
