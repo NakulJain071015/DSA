@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/NakulJain071015/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2942-find-words-containing-character](https://github.com/NakulJain071015/DSA/tree/master/2942-find-words-containing-character) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NakulJain071015/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/NakulJain071015/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3701-compute-alternating-sum](https://github.com/NakulJain071015/DSA/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/NakulJain071015/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3838-weighted-word-mapping](https://github.com/NakulJain071015/DSA/tree/master/3838-weighted-word-mapping) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/NakulJain071015/DSA/tree/master/2396-strictly-palindromic-number) |
 | [2469-convert-the-temperature](https://github.com/NakulJain071015/DSA/tree/master/2469-convert-the-temperature) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/NakulJain071015/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/NakulJain071015/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/NakulJain071015/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/NakulJain071015/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/NakulJain071015/DSA/tree/master/3870-count-commas-in-range) |
