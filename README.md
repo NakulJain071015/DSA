@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/NakulJain071015/DSA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/NakulJain071015/DSA/tree/master/0389-find-the-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NakulJain071015/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3467-transform-array-by-parity](https://github.com/NakulJain071015/DSA/tree/master/3467-transform-array-by-parity) |
 ## Merge Sort
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/NakulJain071015/DSA/tree/master/2942-find-words-containing-character) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NakulJain071015/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/NakulJain071015/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3467-transform-array-by-parity](https://github.com/NakulJain071015/DSA/tree/master/3467-transform-array-by-parity) |
 | [3701-compute-alternating-sum](https://github.com/NakulJain071015/DSA/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/NakulJain071015/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3838-weighted-word-mapping](https://github.com/NakulJain071015/DSA/tree/master/3838-weighted-word-mapping) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/NakulJain071015/DSA/tree/master/1512-number-of-good-pairs) |
+| [3467-transform-array-by-parity](https://github.com/NakulJain071015/DSA/tree/master/3467-transform-array-by-parity) |
 ## Tree
 |  |
 | ------- |
