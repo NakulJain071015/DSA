@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/NakulJain071015/DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/NakulJain071015/DSA/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/NakulJain071015/DSA/tree/master/0069-sqrtx) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/NakulJain071015/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/NakulJain071015/DSA/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/NakulJain071015/DSA/tree/master/1518-water-bottles) |
@@ -273,4 +274,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/NakulJain071015/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/NakulJain071015/DSA/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/NakulJain071015/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
