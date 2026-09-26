@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/NakulJain071015/DSA/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/NakulJain071015/DSA/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/NakulJain071015/DSA/tree/master/1512-number-of-good-pairs) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/NakulJain071015/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NakulJain071015/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/NakulJain071015/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/NakulJain071015/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/NakulJain071015/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1512-number-of-good-pairs](https://github.com/NakulJain071015/DSA/tree/master/1512-number-of-good-pairs) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/NakulJain071015/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/NakulJain071015/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1929-concatenation-of-array](https://github.com/NakulJain071015/DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/NakulJain071015/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/NakulJain071015/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NakulJain071015/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/NakulJain071015/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/NakulJain071015/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/NakulJain071015/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/NakulJain071015/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/NakulJain071015/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/NakulJain071015/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
