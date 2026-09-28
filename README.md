@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/NakulJain071015/DSA/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/NakulJain071015/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/NakulJain071015/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/NakulJain071015/DSA/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/NakulJain071015/DSA/tree/master/0389-find-the-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NakulJain071015/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3467-transform-array-by-parity](https://github.com/NakulJain071015/DSA/tree/master/3467-transform-array-by-parity) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/NakulJain071015/DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/NakulJain071015/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/NakulJain071015/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/NakulJain071015/DSA/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/NakulJain071015/DSA/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/NakulJain071015/DSA/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/NakulJain071015/DSA/tree/master/0567-permutation-in-string) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/NakulJain071015/DSA/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/NakulJain071015/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/NakulJain071015/DSA/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/NakulJain071015/DSA/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/NakulJain071015/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NakulJain071015/DSA/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/NakulJain071015/DSA/tree/master/0907-sum-of-subarray-minimums) |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/NakulJain071015/DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/NakulJain071015/DSA/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/NakulJain071015/DSA/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/NakulJain071015/DSA/tree/master/0268-missing-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/NakulJain071015/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/NakulJain071015/DSA/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/NakulJain071015/DSA/tree/master/1518-water-bottles) |
@@ -215,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/NakulJain071015/DSA/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/NakulJain071015/DSA/tree/master/0389-find-the-difference) |
 ## Bracket Sequences
 |  |
@@ -292,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/NakulJain071015/DSA/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/NakulJain071015/DSA/tree/master/0268-missing-number) |
 ## Newton's Method
 |  |
 | ------- |
