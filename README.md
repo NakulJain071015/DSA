@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NakulJain071015/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/NakulJain071015/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/NakulJain071015/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/NakulJain071015/DSA/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/NakulJain071015/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/NakulJain071015/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/NakulJain071015/DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/NakulJain071015/DSA/tree/master/1512-number-of-good-pairs) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/NakulJain071015/DSA/tree/master/1704-determine-if-string-halves-are-alike) |
 | [3467-transform-array-by-parity](https://github.com/NakulJain071015/DSA/tree/master/3467-transform-array-by-parity) |
 ## Tree
 |  |
