@@ -4,13 +4,15 @@ public:
         string ans;
         int n = command.length();
         for(int i = 0; i < n; i++){
+            if(command[i] == 'G'){
+                ans += "G";
+            }
             if(command[i] == '(' && command[i+1] == ')'){
-                ans += 'o';
+                ans += "o";
             }
-            else if(command[i] == '(' && command[i+1] != ')'){
-                ans += 'a';
+            else if(command[i] == '(' && command[i+1] == 'a'){
+                ans += "al";
             }
-            else if(command[i] == 'G' || command[i] == 'l') ans += command[i];
         }
         return ans;
     }
