@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/NakulJain071015/DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/NakulJain071015/DSA/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/NakulJain071015/DSA/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/NakulJain071015/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/NakulJain071015/DSA/tree/master/0268-missing-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/NakulJain071015/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/NakulJain071015/DSA/tree/master/1486-xor-operation-in-an-array) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/NakulJain071015/DSA/tree/master/0258-add-digits) |
 | [1518-water-bottles](https://github.com/NakulJain071015/DSA/tree/master/1518-water-bottles) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/NakulJain071015/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/NakulJain071015/DSA/tree/master/1929-concatenation-of-array) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/NakulJain071015/DSA/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/NakulJain071015/DSA/tree/master/2413-smallest-even-multiple) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/NakulJain071015/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/NakulJain071015/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
