@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/NakulJain071015/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/NakulJain071015/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/NakulJain071015/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1816-truncate-sentence](https://github.com/NakulJain071015/DSA/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/NakulJain071015/DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/NakulJain071015/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/NakulJain071015/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/NakulJain071015/DSA/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/NakulJain071015/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/NakulJain071015/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1816-truncate-sentence](https://github.com/NakulJain071015/DSA/tree/master/1816-truncate-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/NakulJain071015/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/NakulJain071015/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/NakulJain071015/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
