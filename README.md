@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/NakulJain071015/DSA/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/NakulJain071015/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0234-palindrome-linked-list](https://github.com/NakulJain071015/DSA/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/NakulJain071015/DSA/tree/master/0342-power-of-four) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/NakulJain071015/DSA/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/NakulJain071015/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/NakulJain071015/DSA/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/NakulJain071015/DSA/tree/master/0342-power-of-four) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/NakulJain071015/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/NakulJain071015/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/NakulJain071015/DSA/tree/master/1512-number-of-good-pairs) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/NakulJain071015/DSA/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/NakulJain071015/DSA/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/NakulJain071015/DSA/tree/master/0389-find-the-difference) |
 | [1486-xor-operation-in-an-array](https://github.com/NakulJain071015/DSA/tree/master/1486-xor-operation-in-an-array) |
 ## Bracket Sequences
